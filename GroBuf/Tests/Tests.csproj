@@ -86,6 +86,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TestSerializeOnlyEverridableFields.cs" />
     <Compile Include="TestCustomReadWriteCustomSerializerWithLazy.cs" />
     <Compile Include="TestHashtable.cs" />
     <Compile Include="TestLazy.cs" />
